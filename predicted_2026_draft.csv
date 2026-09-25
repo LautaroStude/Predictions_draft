@@ -1,0 +1,95 @@
+ID_Prospect,Nombre del jugador,Nacimiento,Posición,Equipo,Liga,Experiencia universitaria,Pred_Score,Age,Predicted_Pick
+cameron-boozer,Cameron Boozer,2007-07-18,F,Duke,College,Freshman,1.2998317,19,1
+aj-dybantsa,AJ Dybantsa,2007-01-29,F,Brigham Young,College,Freshman,1.2976143,19,2
+keaton-wagler,Keaton Wagler,2007-02-03,G,Illinois,College,Freshman,1.2871733,19,3
+darryn-peterson,Darryn Peterson,2007-01-17,G,Kansas,College,Freshman,1.2791419,19,4
+kingston-flemings,Kingston Flemings,2007-01-03,G,Houston,College,Freshman,1.2773465,19,5
+ebuka-okorie,Ebuka Okorie,2007-04-10,G,Stanford,College,Freshman,1.2645973,19,6
+koa-peat,Koa Peat,2007-01-20,F,Arizona,College,Freshman,1.0408403,19,7
+darius-acuff,Darius Acuff,2006-11-16,G,Arkansas,College,Freshman,0.99934083,20,8
+caleb-wilson,Caleb Wilson,2006-07-18,F,North Carolina,College,Freshman,0.99406475,20,9
+karim-lopez,Karim Lopez,2007-04-12,F,Breakers,Australia,No corresponde,0.9787773,19,10
+mikel-brown,Mikel Brown Jr.,2006-04-03,G,Louisville,College,Freshman,0.97429436,20,11
+hannes-steinbach,Hannes Steinbach,2006-05-01,C,Washington,College,Freshman,0.9256384,20,12
+morez-johnson-jr,Morez Johnson Jr.,2006-01-25,C,Michigan,College,Sophomore,0.8839015,20,13
+allen-graves,Allen Graves,2006-07-28,F,Santa Clara,College,Freshman,0.84169596,20,14
+nate-ament,Nate Ament,2006-12-10,F,Tennessee,College,Freshman,0.7718469,20,15
+aday-mara,Aday Mara,2005-04-07,C,Michigan,College,Junior,0.6768117,21,16
+chris-cenac-jr,Chris Cenac Jr.,2007-02-01,C,Houston,College,Freshman,0.6683005,19,17
+christian-anderson,Christian Anderson,2006-04-02,G,Texas Tech,College,Sophomore,0.6679929,20,18
+luigi-suigo,Luigi Suigo,2007-01-29,C,KK Mega Leks,Serbia,No corresponde,0.6498617,19,19
+brayden-burries,Brayden Burries,2005-09-18,G,Arizona,College,Freshman,0.63751173,21,20
+dailyn-swain,Dailyn Swain,2005-07-15,F,Texas,College,Junior,0.5571488,21,21
+meleek-thomas,Meleek Thomas,2006-08-06,G,Arkansas,College,Freshman,0.5560615,20,22
+yaxel-lendeborg,Yaxel Lendeborg,2002-09-30,F,Michigan,College,Senior,0.45467114,24,23
+pavle-backo,Pavle Backo,2007-07-11,C,KK Mega Leks,Serbia,No corresponde,0.45336393,19,24
+zuby-ejiofor-2,Zuby Ejiofor,2004-04-20,C,St. John's (NY),College,Senior,0.42970338,22,25
+labaron-philon,Labaron Philon Jr.,2005-11-24,G,Alabama,College,Sophomore,0.40342924,21,26
+mark-mitchell,Mark Mitchell,2003-09-01,F,Missouri,College,Senior,0.34177017,23,27
+francesco-ferrari,Francesco Ferrari,2005-08-18,F,Virtus Pallacanestro Bologna,Italy,No corresponde,0.33866793,21,28
+izaiyah-nelson,Izaiyah Nelson,2003-10-01,F,South Florida,College,Senior,0.32834178,23,29
+jack-kayil,Jack Kayil,2006-01-27,G,ALBA Berlín,Germany,No corresponde,0.29371503,20,30
+malik-reneau,Malik Reneau,2003-04-01,F,Miami (FL),College,Senior,0.29122552,23,31
+cameron-carr,Cameron Carr,2004-11-21,G,Baylor,College,Junior,0.28440922,22,32
+trevon-brazile-2,Trevon Brazile,2003-01-07,F,Arkansas,College,Senior,0.27689862,23,33
+rafael-castro,Rafael Castro,2003-03-30,C,George Washington,College,Senior,0.26569155,23,34
+sergio-de-larrea,Sergio De Larrea,2005-12-04,G,Valencia BC,Spain,No corresponde,0.24066696,21,35
+tarris-reed-jr,Tarris Reed Jr.,2003-08-05,C,Connecticut,College,Senior,0.21883008,23,36
+henri-veesaar,Henri Veesaar,2004-03-28,C,North Carolina,College,Senior,0.21630068,22,37
+oscar-cluff,Oscar Cluff,2001-11-22,C,Purdue,College,Senior,0.21499293,25,38
+malique-lewis,Malique Lewis,2004-11-10,F,SE Melbourne,Australia,No corresponde,0.18352023,22,39
+braden-smith,Braden Smith,2003-07-25,G,Purdue,College,Senior,0.15780309,23,40
+graham-ike,Graham Ike,2002-08-03,C,Gonzaga,College,Senior,0.1574587,24,41
+jayden-quaintance,Jayden Quaintance,2007-07-11,C,Kentucky,College,Sophomore,0.15308617,19,42
+alex-karaban-2,Alex Karaban,2002-11-11,F,Connecticut,College,Senior,0.14911535,24,43
+keyshawn-hall,Keyshawn Hall,2003-04-09,F,Auburn,College,Senior,0.14573954,23,44
+tyler-bilodeau,Tyler Bilodeau,2004-04-17,F,UCLA,College,Senior,0.1407314,22,45
+baba-miller,Baba Miller,2004-02-07,F,Cincinnati,College,Senior,0.13335203,22,46
+aaron-nkrumah,Aaron Nkrumah,2001-11-26,G,Tennessee State,College,Senior,0.13078095,25,47
+trey-kaufman-renn,Trey Kaufman-Renn,2002-08-19,F,Purdue,College,Senior,0.12738073,24,48
+quadir-copeland,Quadir Copeland,2003-09-04,G,North Carolina State,College,Senior,0.12535718,23,49
+tre-donaldson,Tre Donaldson,2003-12-11,G,Miami (FL),College,Senior,0.12290888,23,50
+peter-suder,Peter Suder,2003-07-29,G,Miami (OH),College,Senior,0.1149641,23,51
+bennett-stirtz,Bennett Stirtz,2003-10-03,G,Iowa,College,Senior,0.11251699,23,52
+nick-martinelli,Nick Martinelli,2003-01-05,F,Northwestern,College,Senior,0.11055897,23,53
+jakobi-gillespie,Ja’Kobi Gillespie,2004-03-10,G,Tennessee,College,Senior,0.10825364,22,54
+joshua-jefferson,Joshua Jefferson,2003-11-21,F,Iowa State,College,Senior,0.1051951,23,55
+ryan-conwell,Ryan Conwell,2004-06-15,G,Louisville,College,Senior,0.103747,22,56
+reynan-dossantos,Reynan dos Santos,2004-02-13,F,Mexico City Capitanes,G League,No corresponde,0.101276,22,57
+jaylin-sellers,Jaylin Sellers,2003-06-03,G,Providence,College,Senior,0.100680456,23,58
+tamin-lipsey,Tamin Lipsey,2003-06-25,G,Iowa State,College,Senior,0.08441765,23,59
+bryce-hopkins,Bryce Hopkins,2002-09-07,F,St. John's (NY),College,Senior,0.084194906,24,60
+otega-oweh,Otega Oweh,2003-06-21,G,Kentucky,College,Senior,0.08363988,23,61
+boopie-miller,Boopie Miller,2003-05-01,G,Southern Methodist,College,Senior,0.082582325,23,62
+robert-mccrayv,Robert McCray V,2002-09-26,G,Florida State,College,Senior,0.0798549,24,63
+mj-collins,MJ Collins,2003-08-16,G,Utah State,College,Senior,0.078797,23,64
+nicholas-boyd,Nicholas Boyd,2001-04-23,G,Wisconsin,College,Senior,0.076331474,25,65
+ben-henshall,Ben Henshall,2004-06-22,G,Perth Wildcats,Australia,No corresponde,0.06884537,22,66
+jaden-bradley,Jaden Bradley,2003-09-14,G,Arizona,College,Senior,0.06644266,23,67
+dillon-mitchell,Dillon Mitchell,2003-10-03,F,St. John's (NY),College,Senior,0.06252702,23,68
+keba-keita,Keba Keita,2003-08-20,C,Brigham Young,College,Senior,0.06062429,23,69
+maliq-brown,Maliq Brown,2003-11-16,F,Duke,College,Senior,0.060511574,23,70
+felix-okpara,Felix Okpara,2004-04-20,C,Tennessee,College,Senior,0.060481347,22,71
+richie-saunders,Richie Saunders,2001-09-19,G,Brigham Young,College,Senior,0.058066197,25,72
+tobe-awaka,Tobe Awaka,2004-01-30,C,Arizona,College,Junior,0.055713147,22,73
+seth-trimble,Seth Trimble,2004-08-09,G,North Carolina,College,Senior,0.05474538,22,74
+bruce-thornton,Bruce Thornton,2003-09-14,G,Ohio State,College,Senior,0.048928574,23,75
+ernest-udeh,Ernest Udeh,2004-01-08,C,Miami (FL),College,Senior,0.047057662,22,76
+isaiah-evans,Isaiah Evans,2005-12-06,G,Duke,College,Sophomore,0.031602617,21,77
+tyler-nickel,Tyler Nickel Nickel,2003-09-05,F,Vanderbilt,College,Senior,0.031111123,23,78
+jaxon-kohler,Jaxon Kohler,2003-06-17,F,Michigan State,College,Senior,0.030479202,23,79
+tobi-lawal,Tobi Lawal,2003-05-01,F,Virginia Tech,College,Senior,0.02915178,23,80
+kylan-boswell,Kylan Boswell,2005-04-18,G,Illinois,College,Senior,0.02423493,21,81
+jaden-henley,Jaden Henley,2004-04-14,G,Grand Canyon,College,Senior,0.022350451,22,82
+tucker-devries,Tucker DeVries,2002-12-07,F,Indiana,College,Senior,0.021477683,24,83
+lamar-wilkerson,Lamar Wilkerson,2001-11-17,G,Indiana,College,Senior,0.021365734,25,84
+jaron-pierrejr,Jaron Pierre Jr.,2002-07-12,G,Southern Methodist,College,Senior,0.021309638,24,85
+ugonna-onyenso,Ugonna Onyenso,2004-09-25,C,Virginia,College,Senior,0.020408368,22,86
+emanuel-sharp,Emanuel Sharp,2004-03-07,G,Houston,College,Senior,0.019621177,22,87
+nate-bittle-2,Nate Bittle,2003-06-03,C,Oregon,College,Senior,0.011920464,23,88
+milos-uzan,Milos Uzan,2002-12-26,G,Houston,College,Senior,0.01000385,24,89
+michael-ajayi,Michael Ajayi,2003-06-23,F,Butler,College,Senior,0.007976489,23,90
+kowacie-reeves,Kowacie Reeves,2003-01-31,F,Georgia Tech,College,Senior,0.0025077083,23,91
+darrion-williams,Darrion Williams,2003-04-23,F,North Carolina State,College,Senior,0.0024225463,23,92
+tyon-grant-foster,Tyon Grant-Foster,2000-03-05,F,Gonzaga,College,Senior,0.0013078369,26,93
+chris-bell,Chris Bell,2003-02-16,F,California,College,Senior,0.0006829242,23,94
